@@ -30,13 +30,6 @@ RAG stands for Retrieval-Augmented Generation. It helps AI give correct and upda
 
 Sometimes AI gives wrong or old information because it only depends on training data. RAG solves this problem by searching documents or databases before generating the final answer.
 
-### Steps in RAG
-
-1. User asks a question
-2. System searches documents or databases
-3. Information is collected
-4. AI generates the final answer
-
 ### Uses of RAG
 
 * Improve answer quality
