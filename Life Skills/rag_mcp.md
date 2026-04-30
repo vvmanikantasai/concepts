@@ -14,8 +14,6 @@ Before MCP, developers had to create separate connections for every tool. This p
 
 * Connect AI with databases
 * Connect AI with APIs
-* Connect AI with software tools
-* Make communication simple
 
 ### Example of MCP
 
@@ -42,9 +40,7 @@ Sometimes AI gives wrong or old information because it only depends on training 
 ### Uses of RAG
 
 * Improve answer quality
-* Reduce wrong information
 * Use updated data
-* Search company documents
 
 ### Example of RAG
 
