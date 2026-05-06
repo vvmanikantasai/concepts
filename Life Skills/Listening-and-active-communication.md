@@ -1,4 +1,4 @@
-# Listening and Assertive Communication
+# Listening and Active Communication
 
 
 ### What are the steps/strategies to do Active Listening? 
