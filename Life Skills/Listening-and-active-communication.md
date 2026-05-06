@@ -68,7 +68,7 @@
 
 ---
 
-### How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life?
+### How can you make your communication assertive? 
 
 * Try to understand my feelings clearly  
 * Know what I actually need  
